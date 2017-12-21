@@ -23,10 +23,4 @@
 #### 文章阅读，包含推荐文章和分类                
 ![](read.png)               
 #### 当地的实时天气      
-![](weather.png)                 
-#### App Store (iOS 8.0+)  搜索“厕所在哪” 即可下载            
-![](ios.png)
-
->## 架构  
-
-![](fm.png)
+![](weather.png)
